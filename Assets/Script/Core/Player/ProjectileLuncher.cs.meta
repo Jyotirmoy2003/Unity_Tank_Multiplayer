@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6fdbd42624c27f54788325c760d23611
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inputReader: {fileID: 11400000, guid: 93e0960d626203d47ac7810a92df213e, type: 2}
+  - projectileSpawnPosition: {instanceID: 0}
+  - serverProjectile: {instanceID: 0}
+  - clientProjectile: {fileID: 532972683504326277, guid: 5a2aa7060dd0e4c4f8fca68f4efe16ff, type: 3}
+  - muzzleFlash: {instanceID: 0}
+  - playerCollider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
