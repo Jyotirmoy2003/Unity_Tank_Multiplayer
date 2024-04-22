@@ -4,15 +4,10 @@ using UnityEngine;
 
 public class MainMenu : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+   
+    public async void StartHost()
     {
-        
+        await HostSingleton.Instance.GameManager.StartHostAsync();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
